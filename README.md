@@ -1,16 +1,21 @@
 # About
 
-[![Deploy static content to Pages](https://github.com/ar1ak1/aridragon/actions/workflows/static.yml/badge.svg)](https://github.com/ar1ak1/aridragon/actions/workflows/static.yml)
+[![Deploy static content to Pages](https://github.com/gishohaku/gishohaku-logo/actions/workflows/static.yml/badge.svg)](https://github.com/gishohaku/gishohaku-logo/actions/workflows/static.yml)
 
-この画像はariakiをイメージしたオリジナルキャラクターです。
-本人または本人所属の組織を広報する目的に限り、どなたでも自由にお使いいただけます。
-内容の改変を伴う加工はご遠慮ください。
+技術書同人誌博覧会（技書博）の公式ロゴデータです。
+技書博のイベントを広報する目的に限り、どなたでもご利用いただけます。
+たとえば、プレスリリースに掲載したり、協賛を告知したり、出展報告や参加レポートなどでの利用を想定しています。
+利用される際は、主催団体による広報活動と誤認されないように充分ご配慮ください。
+ロゴデータは変形など改変せずにご利用ください。
+ロゴデータをもとにした独自のグッズ作成は許可されません。
 
-Twitter: @ariaki4dev
-GitHub: @ar1ak1
+技術書同人誌博覧会
+https://gishohaku.dev/
+
+Twitter: @gishohaku
+GitHub: @gishohaku
 
 # Contains
 
-- images : 画像データ
-- rawdata/colorfiles : 高解像度Photoshopデータ
-- rawdata/grayfiles : 高解像度Photoshopデータ（グレースケール版）
+- png : 画像データ
+- svg : ベクターデータ
